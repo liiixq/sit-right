@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 虚拟环境
+.venv/
+
+# PyInstaller 中间产物（dist 保留，里面有发行 exe）
+build/
+*.spec
+
+# IDE
+.idea/
+.vscode/
+
+# Claude Code
+.claude/
+memory/
+MEMORY.md
